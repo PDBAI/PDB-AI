@@ -289,8 +289,7 @@ document.addEventListener('DOMContentLoaded', function() {
         }
         return id;
     }
-       // 👇 Your Gemini API key here
-     const API_KEY = "AIzaSyD-RUG2piQ3rE3tQI8OCJDAp9sPu29iFFQ";
+     const API_KEY = "AIzaSyD1zLT-rvpMfDn9Vjz3X40zgsbLO6DEIBI";
      const API_URL = "https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=" + API_KEY;
 
 
